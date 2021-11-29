@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ProyectoWeb/static/css/main.76b7ad88.chunk.css",
+    "main.js": "/ProyectoWeb/static/js/main.531891bc.chunk.js",
+    "main.js.map": "/ProyectoWeb/static/js/main.531891bc.chunk.js.map",
+    "runtime-main.js": "/ProyectoWeb/static/js/runtime-main.cefb5847.js",
+    "runtime-main.js.map": "/ProyectoWeb/static/js/runtime-main.cefb5847.js.map",
+    "static/js/2.70036010.chunk.js": "/ProyectoWeb/static/js/2.70036010.chunk.js",
+    "static/js/2.70036010.chunk.js.map": "/ProyectoWeb/static/js/2.70036010.chunk.js.map",
+    "static/js/3.246b2521.chunk.js": "/ProyectoWeb/static/js/3.246b2521.chunk.js",
+    "static/js/3.246b2521.chunk.js.map": "/ProyectoWeb/static/js/3.246b2521.chunk.js.map",
+    "index.html": "/ProyectoWeb/index.html",
+    "static/css/main.76b7ad88.chunk.css.map": "/ProyectoWeb/static/css/main.76b7ad88.chunk.css.map",
+    "static/js/2.70036010.chunk.js.LICENSE.txt": "/ProyectoWeb/static/js/2.70036010.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/ProyectoWeb/static/media/prueba.59f6e792.jpg",
+    "static/media/user-icon.413b6256.png": "/ProyectoWeb/static/media/user-icon.413b6256.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cefb5847.js",
+    "static/js/2.70036010.chunk.js",
+    "static/css/main.76b7ad88.chunk.css",
+    "static/js/main.531891bc.chunk.js"
+  ]
+}
